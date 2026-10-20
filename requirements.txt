@@ -1,0 +1,7 @@
+streamlit
+pillow
+google-genai>=1.0
+reportlab>=4.0
+requests>=2.32
+streamlit-cookies-controller==0.0.4
+supabase>=2.0
